@@ -1,4 +1,4 @@
-![Call of Duty GIF](https://media.gifdb.com/call-of-duty-playable-game-character-wi1i2y1agpg3c9l4.gif)
+![Call of Duty GIF]([https://media.gifdb.com/call-of-duty-playable-game-character-wi1i2y1agpg3c9l4.gif](https://tenor.com/id/view/ghost-ghost-mw22022-call-of-duty-gif-27085344))
 
 # 💫 About Me:
 👨‍💻 Software enthusiast <br>| Passionate about coding & cybersecurity 🔐 <br>| Bug bounty learner 🐛 <br>| Medical coder 💉 <br>| Always exploring new tools (Ruby, Metasploit) 🚀 <br>| Open to collaboration & learning every day 💡<br>
