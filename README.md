@@ -1,4 +1,4 @@
-![Deskripsi GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF3aHNkc3AwbHJyZmsyM3R0MzRsa3B5eTVnbDdpcmVoa2xhcDFqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hIXk5GEfYJrvrVTeP4/giphy.gif)
+![Ghost](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpseHhlcTlsYW1tdHY3ajFpMWw1eXlvcm5odjAyb3did296MHFpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwoOoDZpEpdQewQdRR/giphy.gif)
 
 # 💫 About Me:
 👨‍💻 Software enthusiast <br>| Passionate about coding & cybersecurity 🔐 <br>| Bug bounty learner 🐛 <br>| Medical coder 💉 <br>| Always exploring new tools (Ruby, Metasploit) 🚀 <br>| Open to collaboration & learning every day 💡<br>
